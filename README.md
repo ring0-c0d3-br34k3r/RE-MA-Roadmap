@@ -6,7 +6,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Foundations
 ### 0x00 Establishing a Secure Lab Environment
-- [Malware analysis for N00bs – part 1: malware and the tools for its analysis (slides)](https://hshrzd.wordpress.com/2018/09/23/malware-analysis-for-n00bs-1/)
+- [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
 - [Malware Analysis Virtual Machine – by OALabs](https://www.youtube.com/watch?v=ql9D5MuK_3c)
 - [Creating a Simple Free Malware Analysis Environment – by MalwareTech](https://www.malwaretech.com/beginner-malware-reversing-challenges)
 - [Reviews of various tools for reverse engineering](https://0xrick.github.io/basics/re-tools/)
