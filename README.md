@@ -27,7 +27,6 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [VirusBay](https://beta.virusbay.io/)
 
 ### 0x03 Gathering Threat Intelligence
-- [Fumik0 Tracker](https://tracker.fumik0.com)
 - [Benkow](http://benkow.cc)
 - [VXVault](http://vxvault.net/)
 - [Cybercrime Tracker](http://cybercrime-tracker.net/)
@@ -38,36 +37,39 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Practical Exercises
 ### 0x05 Beginner Challenges and Writeups
-- [Beginner Malware Reversing Challenges (by Malware Tech)](https://www.youtube.com/watch?v=2YwS8u4gY8w)
-- [Malwarebytes CrackMe #1 + tutorial](https://www.malwarebytes.com/crackme)
-- [Malwarebytes CrackMe #2 - write-ups](https://forums.malwarebytes.com/topic/194743-malwarebytes-crackme-2/)
-- [Malwarebytes CrackMe #3 - write-ups](https://forums.malwarebytes.com/topic/199916-malwarebytes-crackme-3/)
+- [Beginner Malware Reversing Challenges (by Malware Tech)](https://github.com/MalwareTech/Beginner-Reversing-Challenges)
+- [solve the Malwarebytes CrackMe: a step-by-step tutorial](https://www.malwarebytes.com/blog/news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial)
+- [MalwareTech Windows Reversing Challenge #1 Write-Ups](https://irfanalditya.github.io/posts/malwaretech-chal1/)
+- [MalwareTech Windows Reversing Challenge #2 Write-Ups](https://irfanalditya.github.io/posts/malwaretech-chal2/)
+- [MalwareTech Windows Reversing Challenge #3 Write-Ups](https://irfanalditya.github.io/posts/malwaretech-chal3/)
 - [Crackmes.one – various crackmes to help you exercise reversing](https://crackmes.one/)
-- ["Nightmare" – a reverse engineering course created around CTF tasks](https://www.youtube.com/watch?v=ZC5d5qAFV3U)
-- [FlareOn Challenge writeups](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/flareon5_challengesolutions.pdf)
+- ["Nightmare" – a reverse engineering course created around CTF tasks](https://github.com/guyinatuxedo/nightmare)
+- [FlareOn Challenge writeups](https://github.com/fareedfauzi/Flare-On-Challenges)
 
 ## Understanding Low-Level Concepts
 ### 0x06 Assembly Language and PE Format
 - [Video 1](https://www.youtube.com/watch?v=wLXIWKUWpSs&pp=ygUaIHg4NiBhc3NlbWJseSBpbnRyb2R1Y3Rpb24%3D) and [Video 2](https://www.youtube.com/watch?v=cFGJhn97e3s) for x86 assembly introduction
 - Free course on assembly for other platforms
 - Intel official manual on assembly language
-- [An In-Depth Look into the Win32 Portable Executable File Format Part 1](https://www.fireeye.com/blog/threat-research/2013/08/tracking-malware-import-hashing.html)
-- [An In-Depth Look into the Win32 Portable Executable File Format Part 2](https://www.fireeye.com/blog/threat-research/2013/08/tracking-malware-import-hashing-part-two.html)
-- [Peering Inside the PE: A Tour of the Win32 Portable Executable File Format](https://www.fireeye.com/blog/threat-research/2013/08/peering-inside-the-pe-a-tour-of-the-win32-portable-executable-file-format.html)
-- PE101 and PE102 by Ange Albertini
+- [An In-Depth Look Into The Win32 Portable Executable File Format](https://www.scribd.com/document/607827843/An-In-Depth-Look-into-the-Win32-Portable-Executable-File-Format)
+- [An In-Depth Look into the Win32 Portable Executable File Format](https://mcsi-library.readthedocs.io/articles/2022/05/reverse-engineering-portable-executables-pe-part-2/reverse-engineering-portable-executables-pe-part-2.html)
+- [Peering Inside the PE: A Tour of the Win32 Portable Executable File Format](https://coffi.readthedocs.io/en/latest/peering_inside_pe.pdf)
+- [PE101](https://github.com/corkami/pics/tree/master/binary/pe101) and [PE102](https://github.com/corkami/pics/tree/master/binary/pe102) by Ange Albertini
 
 ### 0x07 Programming for Reverse Engineering
 - C/C++, Python, and Assembly
-- [MalwareTech's article on programming for malware analysis](https://malwaretech.com/beginner-malware-reversing-challenges)
+- [MalwareTech's article on programming for malware analysis](https://www.malwaretech.com/2018/03/best-programming-languages-to-learn-for-malware-analysis.html)
 - Recommended learning resources:
-  - x86 Assembly: [Iczelion's tutorial](https://win32assembly.programminghorizon.com/tutorials.html), [Win32 Assembler for Crackers by Goppit](https://www.youtube.com/watch?v=K9yWYHGYxM8)
+  - x86 Assembly: [Iczelion's tutorial](https://github.com/VishalRashmika/Iczelions-Assembly-Tutorials/blob/main/README.md), [Win32 Assembler for Crackers by Goppit](https://www.scribd.com/document/659839309/Win32-Assembler-Coding-for-Crackers-PL-Kody-zrodlowe)
   - C/C++: [The C Programming language - by Kernighan & Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628), [The C++ Programming language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840), [Linux Programming by example - by Kurt Wall](https://www.amazon.com/Linux-System-Programming-Embedded-Developers/dp/1593272200)
 - [Windows System Programming](https://www.amazon.com/Windows-System-Programming-4th-Addison-Wesley/dp/0321657748) book
 
 ## Malware Unpacking
 ### 0x08 Manual Unpacking Techniques
-- ["Unpacking With Anthracene" tutorial series](https://tuts4you.com/download.php?view.3152)
-- [Author's personal video tutorials on manual unpacking](https://www.youtube.com/playlist?list=PL1F56EA413018EEE1)
+- some ways...
+      - way one : https://medium.com/@dbragetti/unpacking-malware-685de7093e5
+      - way two : https://www.travismathison.com/posts/Manually-unpacking-malware/
+- [manual unpacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYGfoSL9PUlpKi23z0_R2gz-)
 
 ## Advanced Techniques
 ### 0x09 Virtualization-based Protectors
@@ -82,7 +84,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 ### 0x0a Malware Injection and Hooking
 - [A walk-through various techniques (by Endgame)](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 - [Ready-made demos of various code injection techniques (source code)](https://github.com/odzhan/injection)
-- [Review of various injection techniques (BlackHat 2019) [Video][PDF]](https://www.blackhat.com/us-19/briefings/schedule/index.html#practical-approach-to-process-injection-14279)
+- [Review of various injection techniques (BlackHat 2019) Video - PDF](https://www.blackhat.com/us-19/briefings/schedule/index.html#practical-approach-to-process-injection-14279)
 - [Author's PE injection demos (source code)](https://github.com/hasherezade/demos)
 - ["Inline Hooking for programmers" (by MalwareTech) - Part 1 and Part 2](https://malwaretech.com/how-to-write-a-rootkit)
 - [Windows API Hooking (article in Red Teaming Experiments)](https://redteaming.io/)
@@ -105,8 +107,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Learning Resources
 ### 0x0d Courses and Tutorials
-- [Reverse engineering for beginners - RE4B-EN.pdf](https://github.com/user-attachments/files/16503139/RE4B-EN.pdf)
-- [MalwareUnicorn's reverse engineering malware courses [101]](https://malwareunicorn.org/workshops.html) and [102](https://malwareunicorn.org/workshops.html)
+- [Reversing: Secrets of Reverse Engineering Paperback – Illustrated, 1 April 2005](https://www.amazon.com.au/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
+- [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
 - [Mytechnotalent's Reverse Engineering Repository](https://github.com/mytechnotalent/Reverse-Engineering)
 - [Octopus Labs](http://legend.octopuslabs.io/sample-page.html)
 - [Open Security Training](http://opensecuritytraining.info/Training.html)
