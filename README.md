@@ -9,7 +9,6 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
 - [Malware Analysis Virtual Machine – by OALabs](https://www.youtube.com/watch?v=ql9D5MuK_3c)
 - [Creating a Simple Free Malware Analysis Environment – by MalwareTech](https://www.malwaretech.com/beginner-malware-reversing-challenges)
-- [Reviews of various tools for reverse engineering](https://0xrick.github.io/basics/re-tools/)
 
 ### 0x01 Mastering Reverse Engineering Tools
 - [Reversing with Lena151  – learn OllyDbg (old, but still very useful)](https://tuts4you.com/download.php?view.3152)
