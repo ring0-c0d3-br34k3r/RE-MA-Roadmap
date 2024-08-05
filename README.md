@@ -11,9 +11,9 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Creating a Simple Free Malware Analysis Environment – by MalwareTech](https://www.malwaretech.com/beginner-malware-reversing-challenges)
 
 ### 0x01 Mastering Reverse Engineering Tools
-- [Reversing with Lena151  – learn OllyDbg (old, but still very useful)](https://tuts4you.com/download.php?view.3152)
-- [TiGa’s course on IDA Pro](https://www.openanalysis.com/learning/ida-pro-advanced/)
-- [Introduction to WinDbg by Anand George](https://www.youtube.com/watch?v=8mB9Y3jIuYw)
+- [Reversing with Lena151  – learn OllyDbg (old, but still very useful)](https://github.com/kosmokato/Lena151)
+- [REVERSING WITH IDA PRO FROM SCRATCH](http://ricardonarvaja.info/WEB/IDA%20DESDE%20CERO/EN%20INGLES/INGLES/)
+- [Introduction to Windbg and debugging windows](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
 
 ## Gathering Intelligence
 ### 0x02 Sourcing Malware Samples
