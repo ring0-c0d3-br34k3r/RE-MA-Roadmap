@@ -49,7 +49,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Understanding Low-Level Concepts
 ### 0x06 Assembly Language and PE Format
-- [Video 1] and [Video 2] for x86 assembly introduction
+- [Video 1](https://www.youtube.com/watch?v=wLXIWKUWpSs&pp=ygUaIHg4NiBhc3NlbWJseSBpbnRyb2R1Y3Rpb24%3D) and [Video 2](https://www.youtube.com/watch?v=cFGJhn97e3s) for x86 assembly introduction
 - Free course on assembly for other platforms
 - Intel official manual on assembly language
 - [An In-Depth Look into the Win32 Portable Executable File Format Part 1](https://www.fireeye.com/blog/threat-research/2013/08/tracking-malware-import-hashing.html)
