@@ -106,7 +106,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Learning Resources
 ### 0x0d Courses and Tutorials
-- [Reverse engineering resources for beginners](https://www.begin.re/)
+- [Reverse engineering for beginners]([RE4B-EN.pdf](https://github.com/user-attachments/files/16503139/RE4B-EN.pdf)
+)
 - [MalwareUnicorn's reverse engineering malware courses [101]](https://malwareunicorn.org/workshops.html) and [102](https://malwareunicorn.org/workshops.html)
 - [Mytechnotalent's Reverse Engineering Repository](https://github.com/mytechnotalent/Reverse-Engineering)
 - [Octopus Labs](http://legend.octopuslabs.io/sample-page.html)
