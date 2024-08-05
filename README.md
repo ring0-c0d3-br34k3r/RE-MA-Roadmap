@@ -67,8 +67,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 ## Malware Unpacking
 ### 0x08 Manual Unpacking Techniques
 - some ways...
-      - way one : https://medium.com/@dbragetti/unpacking-malware-685de7093e5
-      - way two : https://www.travismathison.com/posts/Manually-unpacking-malware/
+  - way one : https://medium.com/@dbragetti/unpacking-malware-685de7093e5
+  - way two : https://www.travismathison.com/posts/Manually-unpacking-malware/
 - [manual unpacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYGfoSL9PUlpKi23z0_R2gz-)
 
 ## Advanced Techniques
